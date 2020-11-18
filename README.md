@@ -3,7 +3,8 @@
 [![Gem](https://img.shields.io/gem/v/react-rails.svg?style=flat-square)](http://rubygems.org/gems/react-rails)
 [![npm](https://img.shields.io/npm/v/react_ujs.svg?style=flat-square)](https://www.npmjs.com/package/react_ujs)
 [![Build Status](https://img.shields.io/travis/reactjs/react-rails/master.svg?style=flat-square)](https://travis-ci.org/reactjs/react-rails)
-[![Maintainers Wanted](https://img.shields.io/badge/Maintainers-Wanted-red.svg?style=flat-square)]()
+[![Maintainers Wanted](https://img.shields.io/badge/Maintainers-Wanted-red.svg?style=flat-square)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-rails.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-rails?ref=badge_shield)
+()
 
 
 React-Rails is a flexible tool to use [React](http://facebook.github.io/react/) with Rails. The benefits:
@@ -716,3 +717,7 @@ By contributing to React-Rails, you agree to abide by the [code of conduct](http
 You can always help by submitting patches or triaging issues, even offering reproduction steps to issues is incredibly helpful!
 
 Please see our [Contribution guide](https://github.com/reactjs/react-rails/blob/master/CONTRIBUTING.md) for more info.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-rails.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-rails?ref=badge_large)
